@@ -8,4 +8,6 @@ import (
 func main() {
 	fmt.Println("this side is madhvendra")
 	myutil.PrintMessage("this is from my util")
+	myutil.Add(2, 3)
+
 }
